@@ -3,7 +3,7 @@ import org.junit.*;
 
 public class LabReport2Test{
     @Test
-    public void production{
+    public void production(){
         assertEquals(3, LabReport2.product(3,4));
     }
 }
